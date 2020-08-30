@@ -6,3 +6,6 @@ membuat web
 membuat data siswa
 kehadiran
 tugas remedial
+mengubah remedial
+tugas praktek
+
