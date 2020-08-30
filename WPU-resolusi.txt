@@ -1,3 +1,6 @@
 1. membuat buletin
 membuat majalah
 membuat rpp
+membuat vlog
+membuat html
+membuat web
